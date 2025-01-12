@@ -1,0 +1,4 @@
+{
+    "seccomp-profile": "/usr/share/docker/seccomp.json"
+}
+
